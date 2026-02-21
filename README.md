@@ -1,2 +1,2 @@
 # leetcode.c
-question with c language in leetcode
+question of leetcode by no and language code
